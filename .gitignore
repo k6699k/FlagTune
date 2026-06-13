@@ -14,3 +14,5 @@ shape-config/**/*_lose.yaml
 !scripts/**/*.sh
 !processing/*.py
 !processing/**/*.py
+!mm_pipeline/*.py
+!mm_pipeline/**/*.py
